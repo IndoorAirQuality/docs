@@ -8,7 +8,7 @@ In balenaCloud, users manage applications and collaborate in _organizations_. An
 
 Administrators are implicitly granted the ability to perform any possible action to the organization and its associated resources. Actions include inviting and removing members, managing applications, teams, and billing of the organization.
 
-Each user can create or be a member of an unlimited number of organizations. A organization is automatically created upon user registration, and the user is assigned as its administrator. This organization is named after the user's balenaCloud username and is managed like any other but currently cannot be deleted.
+Each user can create or be a member of an unlimited number of organizations. An organization is automatically created upon user registration, and the user is assigned as its administrator. This organization is named after the user's balenaCloud username and is managed like any other but currently cannot be deleted.
 
 Billing applies to each organization separately. Administrators can upgrade an organization at any time to the appropriate billing plan as needed.
 
